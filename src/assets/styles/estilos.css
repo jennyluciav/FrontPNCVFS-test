@@ -1,0 +1,21 @@
+.select-type:hover{
+  background: #ED2939;
+}
+.select-type.active{
+  background: #ED2939;
+}
+.select-type{
+  text-align: center;
+  height: 100%;
+}
+body{
+  overflow-x: hidden;
+  height: 100%;
+}
+html{
+  height: 100%;
+}
+.col-xs-1 img{
+	height: 70%;
+	width: 25%;
+}
